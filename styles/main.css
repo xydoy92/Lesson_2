@@ -1,0 +1,61 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: #212121;
+    margin-top: 107px;
+    margin-bottom: 30px;
+}
+
+.line {
+    margin: 0 auto;
+    width: 64px;
+    height: 2px;
+    background-color: #ff8b38;
+}
+
+.opensanstext {
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #86878b;
+}
+
+.propertiesh2 {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.reasons {
+    display: inline-block;
+    width: 350px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.circle {
+    margin: 0 auto;
+    width: 70px;
+    height: 70px;
+    border: 2px solid #ff8b38;
+    border-radius: 35px;
+    line-height: 70px;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.propertiesh3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
